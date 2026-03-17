@@ -12,9 +12,11 @@ void main()
         printf("the shape is portrait");
     }
     if(width==length)
+
     {
         printf("the shape is squre");
     }
+
     if(width<length)
     {
          printf("the shape is landscape");
